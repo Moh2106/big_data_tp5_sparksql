@@ -1,0 +1,33 @@
+Id,titre,description,service,date
+1,Panne de machine,La machine A1 est en panne depuis ce matin,Production,2023-01-01
+2,Problème réseau,Les employés du département informatique signalent une perte de connectivité,Informatique,2023
+3,Dysfonctionnement du logiciel,Le logiciel de gestion des stocks ne répond pas correctement,Logistique,2022
+4,Incident électrique,Une coupure de courant a affecté plusieurs bureaux,Électricité,2021
+5,Dysfonctionnement du système d'alarme,Le système d'alarme incendie s'est déclenché de manière inattendue,Sécurité,2021
+6,Problème de livraison,Retard important dans la livraison des matières premières,Approvisionnement,2021
+7,Erreur dans la production,Des produits défectueux ont été fabriqués en raison d'une erreur de programmation de la machine,Production,2023
+8,Problème de climatisation,Les bureaux du département administratif sont trop chauds en raison d'une panne de climatisation,Infrastructure,2023
+9,Accident du travail,Un employé du service de maintenance a été blessé lors d'une intervention,Santé et sécurité,2023
+10,Panne du serveur central,Le serveur central a subi une défaillance,Informatique,2022
+11,Perte de données,Des données importantes ont été perdues en raison d'une erreur de sauvegarde,Informatique,2022
+12,Panne de véhicule,Un camion de livraison est en panne sur la route,Transport,2022
+13,Fuite d'eau,Une fuite d'eau a été détectée dans la salle des serveurs,Infrastructure,2021
+14,Problème de communication,Les communications internes sont perturbées en raison d'une défaillance du système téléphonique,Communication,2023
+15,Problème d'éclairage,Des ampoules défectueuses causent un éclairage insuffisant dans les locaux,Électricité,2023
+16,Erreur dans la programmation des robots,Les robots de l'usine ne suivent pas le programme prévu,Production,2023
+17,Panne du système de refroidissement,Les serveurs surchauffent en raison d'une panne du système de refroidissement,Informatique,2022
+18,Problème de ventilation,Le système de ventilation du bâtiment ne fonctionne pas correctement,Infrastructure,2021
+19,Incident chimique,Une réaction chimique inattendue s'est produite dans le laboratoire,Chimie,2020
+20,Erreur dans le processus de fabrication,Des erreurs ont été commises dans le processus de fabrication des produits,Production,2023
+21,Problème de sécurité informatique,Attaque informatique détectée,Informatique,2022
+22,Problème d'alimentation électrique,Une panne d'électricité générale affecte l'ensemble de l'usine,Électricité,2023
+23,Panne du système de surveillance,Les caméras de surveillance ne fonctionnent plus,Security,2023
+24,Accident de chariot élévateur,Un chariot élévateur a renversé des produits dans l'entrepôt,Logistique,2020
+25,Panne du système de téléconférence,La salle de réunion ne peut pas accéder au système de téléconférence,Communication,2021
+26,Problème de chauffage,Les bureaux sont trop froids en raison d'une panne du système de chauffage,Infrastructure,2020
+27,Erreur dans les comptes financiers,Des erreurs ont été détectées dans les comptes financiers de l'entreprise,Finance,2023
+28,Problème d'imprimante,Les imprimantes du service administratif ne fonctionnent pas,Informatique,2023
+29,Panne du système de contrôle d'accès,Le système de contrôle d'accès ne répond plus,Security,2022
+30,Problème de gestion des stocks,Des erreurs dans la gestion des stocks ont conduit à des ruptures de stock,Logistique,2023
+31,Panne du système de climatisation,Les locaux sont trop chauds en raison d'une panne du système de climatisation,Infrastructure,2021
+32,Problème de recrutement,Difficultés à pourvoir certains postes clés dans l'entreprise,Ressources humaines,2020
