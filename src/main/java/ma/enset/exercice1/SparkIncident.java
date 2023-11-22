@@ -1,4 +1,4 @@
-package ma.enset;
+package ma.enset.exercice1;
 
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
